@@ -1,6 +1,7 @@
 # Aplicación de asignacion de evaluaciones
 
 ## Tomado y modificado del codigo original de "statick88":
+https://github.com/statick88/AdopcionMascotas.git
 
 ![App en Funcionamiento](https://github.com/statick88/AdopcionMascotas/blob/main/img/image.png)
 
@@ -104,6 +105,3 @@ Ahora, deberías poder ver la aplicación en tu navegador en `http://localhost:3
 
 ¡Felicidades! Ahora tienes una aplicación de adopción de mascotas en funcionamiento. Este proyecto es un excelente punto de partida para aprender más sobre `React`, `Express` y la `arquitectura de 3 capas`. No dudes en explorar el código y experimentar con él. 
 
-## Tomado y modificado del codigo original en:
-
-![App en Funcionamiento](https://github.com/statick88/AdopcionMascotas/blob/main/img/image.png)
