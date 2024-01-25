@@ -1,14 +1,16 @@
-# Aplicación de Adopción de Mascotas 🐶👤
+# Aplicación de asignacion de evaluaciones
+
+## Tomado y modificado del codigo original de:
 
 ![App en Funcionamiento](https://github.com/statick88/AdopcionMascotas/blob/main/img/image.png)
 
-Esta aplicación te permite gestionar un sistema de adopción de mascotas. Puedes agregar nuevos perros rescatados, agregar nuevos adoptantes y realizar adopciones. 
+Esta aplicación te permite gestionar un sistema de asignacion de evaluaciones. Puedes agregar nuevas evaluaciones, agregar nuevos estudiantes y realizar asignaciones. 
 
 La aplicación sigue un diseño de arquitectura de 3 capas, que es un patrón comúnmente utilizado en el desarrollo web. Este diseño divide la aplicación en tres partes:
 
-1. **Capa de Presentación (Interfaz de usuario):** Esta es la capa que los usuarios ven e interactúan. En nuestra aplicación, esta capa está implementada con React. Los componentes de React se utilizan para crear la interfaz de usuario, que incluye formularios para agregar nuevos perros y adoptantes, y una lista de adopciones.
+1. **Capa de Presentación (Interfaz de usuario):** Esta es la capa que los usuarios ven e interactúan. En nuestra aplicación, esta capa está implementada con React. Los componentes de React se utilizan para crear la interfaz de usuario, que incluye formularios para agregar nuevos estudiantes y evaluaciones, y una lista de asignaciones.
 
-2. **Capa de Lógica de Negocio (Procesamiento de Datos):** Esta capa maneja la lógica de la aplicación, como agregar nuevos perros y adoptantes, y realizar adopciones. En nuestra aplicación, esta lógica se maneja en el frontend con React y en el backend con Express.
+2. **Capa de Lógica de Negocio (Procesamiento de Datos):** Esta capa maneja la lógica de la aplicación, como agregar nuevos estudiantes y evaluciones, y realizar asignaciones. En nuestra aplicación, esta lógica se maneja en el frontend con React y en el backend con Express.
 
 3. **Capa de Acceso a Datos (Interacción con la Base de Datos):** Esta capa se encarga de interactuar con la base de datos para almacenar y recuperar datos. En nuestra aplicación, esta interacción se simula con archivos JSON.
 
@@ -102,4 +104,6 @@ Ahora, deberías poder ver la aplicación en tu navegador en `http://localhost:3
 
 ¡Felicidades! Ahora tienes una aplicación de adopción de mascotas en funcionamiento. Este proyecto es un excelente punto de partida para aprender más sobre `React`, `Express` y la `arquitectura de 3 capas`. No dudes en explorar el código y experimentar con él. 
 
-¡Diviértete codificando!
+## Tomado y modificado del codigo original en:
+
+![App en Funcionamiento](https://github.com/statick88/AdopcionMascotas/blob/main/img/image.png)
