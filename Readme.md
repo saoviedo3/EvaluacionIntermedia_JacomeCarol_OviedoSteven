@@ -1,6 +1,6 @@
 # Aplicación de asignacion de evaluaciones
 
-## Tomado y modificado del codigo original de:
+## Tomado y modificado del codigo original de "statick88":
 
 ![App en Funcionamiento](https://github.com/statick88/AdopcionMascotas/blob/main/img/image.png)
 
